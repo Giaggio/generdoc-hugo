@@ -1,4 +1,4 @@
-baseURL = "https://generdoc.netlify.com"
+baseURL = "https://generdoc.netlify.app"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableGitInfo = true
 enableRobotsTXT = true
